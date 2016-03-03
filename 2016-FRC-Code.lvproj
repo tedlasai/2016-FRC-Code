@@ -615,6 +615,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_CANTalonSRX_ControlMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_ControlMode.ctl"/>
 				<Item Name="WPI_CANTalonSRX_DeduceControlIMsgId.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_DeduceControlIMsgId.vi"/>
 				<Item Name="WPI_CANTalonSRX_FeedbackSelect.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_FeedbackSelect.ctl"/>
+				<Item Name="WPI_CANTalonSRX_GetStatus.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_GetStatus.vi"/>
 				<Item Name="WPI_CANTalonSRX_Global.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_Global.vi"/>
 				<Item Name="WPI_CANTalonSRX_GlobalControl.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_GlobalControl.ctl"/>
 				<Item Name="WPI_CANTalonSRX_GlobalOps.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/TalonSRX/WPI_CANTalonSRX_GlobalOps.ctl"/>
@@ -889,7 +890,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">218</Property>
+				<Property Name="Bld_version.build" Type="Int">224</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
