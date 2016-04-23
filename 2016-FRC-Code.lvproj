@@ -134,6 +134,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
 		<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
+		<Item Name="X Value.vi" Type="VI" URL="../../2016-Dashboard-Cameras/2016-Dashboard-9f65f16620698957793f07082cc61f0762508944/X Value.vi"/>
+		<Item Name="Y.vi" Type="VI" URL="../../2016-Dashboard-Cameras/2016-Dashboard-9f65f16620698957793f07082cc61f0762508944/Y.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -905,7 +907,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">363</Property>
+				<Property Name="Bld_version.build" Type="Int">383</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
